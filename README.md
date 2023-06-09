@@ -4,8 +4,8 @@ a builder, trying to contribute more to OS projects that i use.
 
 dotnet & c#. built and maintain homebrew erp.
 ```cs
-while(stillBuilding)
-  await vcBuyOutAsync();
+while(imperfect)
+  await Perfection();
 ```
 web devel.
 ```html
