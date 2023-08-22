@@ -10,4 +10,4 @@ i like optimizing. it can always be more efficient.
 
 i know some legacy languages too.
 
-left repo's up from my guppy stage, laugh at them with me.
+left repo's up from little me; laugh at them with me.
